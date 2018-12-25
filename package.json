@@ -1,0 +1,8 @@
+{
+  "name": "CronoTimer",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0"
+  }
+}
