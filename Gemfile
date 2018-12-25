@@ -18,6 +18,14 @@ gem 'uglifier', '>= 1.3.0'
 gem 'devise'
 gem 'cancancan'
 gem 'rolify'
+# CSS from bootstrap
+gem 'boostrap-sass'
+#adding Popper.js for bootstrap
+gem 'popper_js'
+#sprockets rails
+gem 'sprockets-rails'
+#adding jquery for bootstrap
+gem 'jquery-rails'
 gem 'jquery'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
